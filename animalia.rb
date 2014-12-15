@@ -87,7 +87,7 @@ class DuckBilledPlatypus
   include Carnivore
   include Oviparous
 
-  def find_food!
+  def find_meat!
     puts "I eat insects, mostly..."
   end
 end
